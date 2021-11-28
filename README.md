@@ -9,5 +9,5 @@ Checkout the live website rosita [Rosita](https://rosita-173d6.web.app/).
 - Managing Bookings
 - Delete Bookings
 - Status Change of Bookings
-- Using Node.js API to handle database
+- Used Node.js API to handle database
 - Used Mongodb for db
